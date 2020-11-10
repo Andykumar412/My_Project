@@ -14,7 +14,7 @@
   - Built a Light-weighted robot that can clean and mop the floor using scrubbers.
   - To help people who are facing mobility issues.
 
-## 4.Effective Trash Manager using the Internet of things (Jun2019- Present) : [Link](https://andykumar412.github.io/)
+## 4.Effective Trash Manager using the Internet of things (Jun 2019- Present) : [Link](https://andykumar412.github.io/)
   - Designed a website for effective management of garbage using IoT
   - A step towards keeping Our India Clean (Swachh Bharat).
 
